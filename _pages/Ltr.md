@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Ltr"
-permalink: /Ltr/
+permalink: /ltr/
 author_profile: true
 show_date: false
 read_time: false
