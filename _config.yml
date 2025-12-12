@@ -26,10 +26,10 @@ author:
       url: "https://www.google.com/maps/place/South+Korea"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/"   # put your real link
+      url: "https://www.linkedin.com/"
     - label: "Math SE"
       icon: "fab fa-fw fa-stack-exchange"
-      url: "https://math.stackexchange.com/"  # put your profile
+      url: "https://math.stackexchange.com/"
 
 defaults:
   - scope: { path: "", type: posts }
