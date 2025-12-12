@@ -62,6 +62,6 @@ defaults:
       layout: single
       author_profile: true
 
-tag_archive:
+Research:
   type: liquid
   path: /research/
