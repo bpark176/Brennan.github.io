@@ -1,29 +1,31 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
-categories:
-  - blog
-tags:
-  - Jekyll
-  - update
+layout: single
+title: "About"
+permalink: /about/
+author_profile: true
+show_date: false
+read_time: false
+comments: false
+share: false
+related: false
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hi, I’m **Brennan Park** — a student from **South Korea** passionate about robotics, mathematics, and environmental science.  
+I enjoy working on projects that bridge theory and application, whether that’s building mathematical models for competitions,  
+developing robotics software, or conducting environmental research — etc etc etc.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+---
 
-Jekyll also offers powerful support for code snippets:
+## Interests
+- Robotics, embedded systems, and control theory  
+- Mathematical modeling and applied problem solving  
+- Sustainability and environmental engineering  
+- Learning through independent research — etc etc etc
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+---
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+## Current Work
+At school, I’m involved in multiple STEM initiatives — etc etc etc.  
+I also maintain this website as a portfolio to document my learning, research, and projects.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+---
