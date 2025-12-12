@@ -10,7 +10,7 @@ share: false
 related: false
 ---
 
-This page stores my visual proofs of mathematical concepts. I create animations with _Manim_, inspired by the elegant style of 3Blue1Brown, to explore and explain mathematical ideas through visuals. These projects range from classical to more experimental theorems, each aiming to help explain the "why" in mathematics.
+This page stores my visual proofs of mathematical concepts. I create animations with _Manim_, inspired by the elegant style of 3Blue1Brown, to explore and explain mathematical ideas through visuals. These projects range from classical to more experimental theorems, each aiming to help explain the "why?" in mathematics.
 
 ---
 
