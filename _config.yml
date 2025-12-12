@@ -55,9 +55,9 @@ plugins:
 author:
   name   : "Brennan Park"
   avatar : "https://i.pinimg.com/736x/c7/44/8e/c7448e77953683dc5c99f28ee8ad622b.jpg"
-  bio    : "South Korea"
+  bio    : "Seoul International School"
   links:
-    - label: "South korea"
+    - label: "South Korea"
       icon: "fas fa-fw fa-map-marker-alt"
       url: "https://www.google.com/maps/place/South+Korea"
     - label: "Linkedin"
