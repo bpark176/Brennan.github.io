@@ -60,6 +60,6 @@ defaults:
       layout: single
       author_profile: true
 
-Research:
-  type: liquid
-  path: /research/
+#Research:
+#  type: liquid
+#  path: /research/
