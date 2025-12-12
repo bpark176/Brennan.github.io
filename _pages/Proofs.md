@@ -15,8 +15,8 @@ This page stores my visual proofs of mathematical concepts. I create animations 
 ---
 
 ## Pythagorean Theorem
-1. Bhaskara's proof
-   
+1. [Bhaskara's proof](https://youtube.com/shorts/e09Qml8cryI?si=IAljDSQ2j9MJ_bBZ)
+
 ---
 
 ## Current Work
