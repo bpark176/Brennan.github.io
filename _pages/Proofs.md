@@ -10,17 +10,16 @@ share: false
 related: false
 ---
 
-Hi, I’m **Brennan Park** — a student from **South Korea** passionate about robotics, mathematics, and environmental science.  
-I enjoy working on projects that bridge theory and application, whether that’s building mathematical models for competitions,  
-developing robotics software, or conducting environmental research — etc etc etc.
+This page stores my visual proofs of mathematical concepts. I create animations with _Manim_, inspired by the elegant style of 3Blue1Brown, to explore and explain mathematical ideas through visuals. These projects range from classical to more experimental theorems, each aiming to help explain the "why" in mathematics.
 
 ---
 
-## Interests
-- Robotics, embedded systems, and control theory  
-- Mathematical modeling and applied problem solving  
-- Sustainability and environmental engineering  
-- Learning through independent research — etc etc etc
+## Pythagorean Theorem
+1. Bhaskara's proof
+<video width="640" height="360" controls>
+  <source src="{{ '/assets/videos/PythagoreanProof.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
