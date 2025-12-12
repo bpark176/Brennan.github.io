@@ -62,8 +62,8 @@ author:
   avatar : "https://i.pinimg.com/736x/c7/44/8e/c7448e77953683dc5c99f28ee8ad622b.jpg"
   bio    : "Seoul International School"
   links:
-    - label: "Location"
-      icon: "fas fa-fw fa-map-marker-alt"
+    - label: "South Korea"
+      icon: "fas fa-fw fa-map-marker"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.youtube.com/"
@@ -80,10 +80,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      read_time: False
+      comments: False
+      share: False
+      related: False
   # _pages
   - scope:
       path: "_pages"
