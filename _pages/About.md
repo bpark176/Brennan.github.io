@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Brennan"
-permalink: /bp/
+title: "About"
+permalink: /about/
 author_profile: true
 show_date: false
 read_time: false
