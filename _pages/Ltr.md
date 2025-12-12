@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "About"
-permalink: /about/
+title: "Ltr"
+permalink: /Ltr/
 author_profile: true
 show_date: false
 read_time: false
