@@ -58,22 +58,19 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Brennan Park"
+  avatar : "https://i.pinimg.com/736x/c7/44/8e/c7448e77953683dc5c99f28ee8ad622b.jpg"
+  bio    : "Seoul International School"
   links:
-    - label: "Website"
+    - label: "Location"
       icon: "fas fa-fw fa-link"
       url: "https://"
-    - label: "Twitter"
+    - label: "Linkedin"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
-    - label: "GitHub"
+    - label: "Math SE"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 footer:
   links:
