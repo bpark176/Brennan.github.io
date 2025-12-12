@@ -1,27 +1,14 @@
 title: "Brennan's Stuff"
-email:
 description: >-
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Site for projects, research, and notes.
 
-# Site URL (PROJECT SITE)
+# Project site settings (REQUIRED if repo is NOT bpark176.github.io)
 url: "https://bpark176.github.io"
 baseurl: "/bpark167-s-stuff"
 
-github_username: bpark176
 minimal_mistakes_skin: "dirt"
-search: false
-
-# Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-
-# Outputting
-permalink: /:categories/:title/
-paginate: 5
-paginate_path: /page:num/
-timezone:
 
 include:
   - _pages
@@ -39,16 +26,13 @@ author:
       url: "https://www.google.com/maps/place/South+Korea"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/"   # put your real LinkedIn here
+      url: "https://www.linkedin.com/"   # put your real link
     - label: "Math SE"
       icon: "fab fa-fw fa-stack-exchange"
-      url: "https://math.stackexchange.com/"  # put your profile URL here
+      url: "https://math.stackexchange.com/"  # put your profile
 
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
+  - scope: { path: "", type: posts }
     values:
       layout: single
       author_profile: true
@@ -56,15 +40,7 @@ defaults:
       comments: false
       share: false
       related: false
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
+  - scope: { path: "_pages", type: pages }
     values:
       layout: single
       author_profile: true
-
-# Tag archive example (keep if you actually use it)
-tag_archive:
-  type: liquid
-  path: /tags/
