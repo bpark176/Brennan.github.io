@@ -18,8 +18,8 @@ This page stores my visual proofs of mathematical concepts. I create animations 
 1. Bhaskara's proof
 <video width="640" height="360" controls>
   <source src="{{ '/assets/videos/PythagoreanProof.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
-
 
 ---
 
