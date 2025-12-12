@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Ltr"
-permalink: /ltr/
+title: "Proofs"
+permalink: /proofs/
 author_profile: true
 show_date: false
 read_time: false
