@@ -8,7 +8,7 @@ Linkedin_username: Brennan Park
 github_username: bpark176
 minimal_mistakes_skin: "dirt"
 search: False
-
+ 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
