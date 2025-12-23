@@ -39,6 +39,9 @@ author:
     - label: "Math SE"
       icon: "fab fa-fw fa-stack-exchange"
       url: "https://www.youtube.com/"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@bkp176"
 
 defaults:
   # _posts
