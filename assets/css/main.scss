@@ -1,5 +1,4 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
 ---
 
 @import "minimal-mistakes";
@@ -10,5 +9,5 @@
   margin: 40px auto;
   padding: 24px;
   box-sizing: border-box;
+  outline: 3px solid red; /* TEMP so we can see if it applies */
 }
-
