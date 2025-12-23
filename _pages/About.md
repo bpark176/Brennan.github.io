@@ -16,5 +16,5 @@ What draws me to math most is its ability to turn abstract ideas into practical 
 
 This website is a place where I document the things I make and the research I work on, along with notes, experiments, and ideas I find interesting along the way. It’s meant to be a living record of my learning and growth, and a space to share projects as they evolve.
 
-(Last updated September 2025)
+(Last updated January 2026)
 
