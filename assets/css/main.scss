@@ -1,13 +1,9 @@
 ---
 ---
 
-@import "minimal-mistakes";
-
-.about-box{
-  max-width: 1300px;
+.about-box {
+  max-width: 1100px;
   width: 100%;
   margin: 40px auto;
   padding: 24px;
-  box-sizing: border-box;
-  outline: 3px solid red; /* TEMP so we can see if it applies */
 }
