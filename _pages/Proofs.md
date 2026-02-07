@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "My_Stuff"
+title: "My Stuff"
 permalink: /proofs/
 author_profile: true
 show_date: false
