@@ -39,16 +39,6 @@ author:
       url: "https://www.youtube.com/@bkp176"
 
 defaults:
-  # _posts
-  - scope:
-      path: "_pages"
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      classes: wide
-
-  # _pages
   - scope:
       path: "_pages"
       type: pages
