@@ -41,15 +41,11 @@ author:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_pages"
       type: posts
     values:
       layout: single
       author_profile: true
-      read_time: False
-      comments: False
-      share: False
-      related: False
       classes: wide
 
   # _pages
