@@ -57,6 +57,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      classes: wide
 
 #Research:
 #  type: liquid
