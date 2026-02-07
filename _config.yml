@@ -50,6 +50,8 @@ defaults:
       comments: False
       share: False
       related: False
+      classes: wide
+
   # _pages
   - scope:
       path: "_pages"
