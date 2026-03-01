@@ -31,6 +31,7 @@ Nearly all of the mathematics I know has been obtained through self-studying. Th
 - 🟨 Linear Algebra
 - 🟥 Calculus 3
 - 🟥 Differential Equations
+
 <!--  
 - 🟥 Partial Differential Equations
 - 🟥 Discrete Mathematics
