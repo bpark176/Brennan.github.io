@@ -9,18 +9,17 @@ comments: false
 share: false
 related: false
 ---
-
-This page stores my visual proofs of mathematical concepts. I create animations with _Manim_, inspired by the elegant style of 3Blue1Brown, to explore and explain mathematical ideas through visuals. These projects range from classical to more experimental theorems, each aiming to help explain the "why?" in mathematics.
-
+Nearly all of the mathematics I know has been obtained through self-studying. This page is dedicated to my mathematical journey, and I will document my textbooks and I will write a short review on them. 
 ---
 
-## Pythagorean Theorem
-1. [Bhaskara's proof](https://youtube.com/shorts/e09Qml8cryI?si=IAljDSQ2j9MJ_bBZ)
+## My Roadmap
 
----
-
-## Current Work
-At school, I’m involved in multiple STEM initiatives — etc etc etc.  
-I also maintain this website as a portfolio to document my learning, research, and projects.
+- [x] Precalculus
+- [x] Calculus 1
+- [x] Calculus 2
+- [ ] Calculus 3
+- [x] Introduction to Linear Algebra
+- [ ] Discrete Mathematics
+- [ ] Real Analysis
 
 ---
