@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Math"
-permalink: /proofs/
+permalink: /math/
 author_profile: true
 show_date: false
 read_time: false
@@ -19,6 +19,6 @@ related: false
 - 🟩 Precalculus (
 - 🟨 Calculus 1, 2, 3
 - 🟨 Introduction to Linear Algebra
-- [ ] Discrete Mathematics
-- [ ] Real Analysis
+- 🟥 Discrete Mathematics
+- 🟥 Real Analysis
 ---
