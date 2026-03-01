@@ -15,8 +15,9 @@ Nearly all of the mathematics I know has been obtained through self-studying. Th
 ## My Roadmap
 <small>🟩 Done 🟨 In progress 🟥 Not started</small>
 - 🟩 Precalculus (Jan. 2025)
-- 🟨 Calculus 1, 2, 3
+- 🟨 Calculus 1, 2
 - 🟨 Introduction to Linear Algebra
+- 🟥 Calculus 3 
 - 🟥 Discrete Mathematics
 - 🟥 Real Analysis
 
