@@ -20,3 +20,5 @@ related: false
 - 🟨 Introduction to Linear Algebra
 - 🟥 Discrete Mathematics
 - 🟥 Real Analysis
+
+---
