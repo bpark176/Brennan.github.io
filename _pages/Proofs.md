@@ -19,4 +19,5 @@ Nearly all of the mathematics I know has been obtained through self-studying. Th
 - 🟨 Introduction to Linear Algebra
 - 🟥 Discrete Mathematics
 - 🟥 Real Analysis
+
 ---
