@@ -9,7 +9,7 @@ comments: false
 share: false
 related: false
 ---
-Nearly all of the mathematics I know has been obtained through self-studying. This page is dedicated to my mathematical journey, and I will document my textbooks and I will write a short review on them. 
+Nearly all of the mathematics I know has been obtained through self-studying. This page is dedicated to my mathematical journey. I will document my textbooks, and I will write a short review of them. I will also write reviews of math books that I found interesting.
 
 ## Textbooks:
 - **Linear Algebra**
