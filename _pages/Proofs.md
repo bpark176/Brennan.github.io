@@ -13,8 +13,8 @@ related: false
 **---
 
 ## My Roadmap
-<sub>🟩 Done 🟨 In progress 🟥 Not started
 ---
+<small>🟩 Done · 🟨 In progress · 🟥 Not started</small>
 - 🟩 Precalculus (
 - 🟨 Calculus 1, 2, 3
 - 🟨 Introduction to Linear Algebra
