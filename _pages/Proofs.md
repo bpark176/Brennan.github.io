@@ -13,7 +13,7 @@ related: false
 **---
 
 ## My Roadmap
-🟩 Done 🟨 In progress 🟥 Not started
+<sub>🟩 Done 🟨 In progress 🟥 Not started
 ---
 - 🟩 Precalculus (
 - 🟨 Calculus 1, 2, 3
