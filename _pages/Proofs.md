@@ -13,13 +13,12 @@ related: false
 **---
 
 ## My Roadmap
-
-- [x] Precalculus
-- [x] Calculus 1
-- [x] Calculus 2
-- [ ] Calculus 3
-- [x] Introduction to Linear Algebra
+---
+🟩 **Done** 🟨 **In progress** 🟥 **Not started**
+---
+- 🟩 Precalculus (
+- 🟨 Calculus 1, 2, 3
+- 🟨 Introduction to Linear Algebra
 - [ ] Discrete Mathematics
 - [ ] Real Analysis
-
 ---
