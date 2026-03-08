@@ -39,6 +39,7 @@ Nearly all of the mathematics I know has been obtained through self-studying. Th
 
       A well-written introduction to linear algebra. Unlike many textbooks, such as those by Strang or Lay, Poole introduces the concept of vectors first instead of systems of linear equations, which is especially helpful for someone with no prior experience in linear algebra. Another thing I like about this textbook is that it is filled with what the textbook calls “explorations and vignettes,” which are essentially applications of concepts to real-life scenarios.
 
+  - *Linear Algebra for Everyone* - G. Strang
 
 ---
 
