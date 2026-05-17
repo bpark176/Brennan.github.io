@@ -20,39 +20,19 @@ This website serves as a platform for documenting the projects I create, the res
 (Last updated Jun. 2026)
 
 
-<style>
-#duckButton {
-  position: fixed;
-  top: 150px;
-  right: 20px;
-
-  background: red;
-  color: black;
-
-  border: 3px solid #007BFF;
-  border-radius: 10px;
-
-  padding: 8px 14px;
-
-  font-size: 14px;
-  font-weight: bold;
-
-  cursor: pointer;
-
-  z-index: 999999;
-}
-</style>
-
-<script>
-const btn = document.getElementById("duckButton");
-
-btn.addEventListener("click", () => {
-  if (btn.innerText === "Turn duck on!") {
-    btn.innerText = "Turn duck off!";
-    btn.style.background = "limegreen";
-  } else {
-    btn.innerText = "Turn duck on!";
-    btn.style.background = "red";
-  }
-});
-</script>
+<button id="duckButton" style="
+position: fixed;
+top: 150px;
+right: 20px;
+background: red;
+color: black;
+border: 3px solid #007BFF;
+border-radius: 10px;
+padding: 8px 14px;
+font-size: 14px;
+font-weight: bold;
+cursor: pointer;
+z-index: 999999;
+">
+Turn duck on!
+</button>
