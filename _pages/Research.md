@@ -13,7 +13,7 @@ related: false
 Write your research intro here — etc etc etc.
 
 
-[HiMCM 2025 Report (16953)](https://drive.google.com/file/d/1KiochZ-RqdEu8X_LWzlDm4PUDua_BN14/view)  
+[HiMCM 2025 Report (16953)](https://drive.google.com/file/d/1KiochZ-RqdEu8X_LWzlDm4PUDua_BN14/view) - Brennan Park, Connor Seoung, Jion Choi, Jun Yi (11.25 - 11.25)
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
