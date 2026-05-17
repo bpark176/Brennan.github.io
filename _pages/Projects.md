@@ -34,7 +34,6 @@ This page is dedicated to the personal projects I have done over the years.
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 <div style="flex: 1;">
 - I am a co-founder and the head of Marketing & Branding of Roboshare. RoboShare is a student-led non-profit initiative that unites aspiring roboticists across Korea to collaborate on VEX robotics and broader engineering projects. By creating an accessible space for knowledge exchange, design feedback, and peer mentorship, the platform empowers students to accelerate innovation.
-[Roboshare's Website](https://www.roboshare.kr/)
 
 </div>
 <img src="../assets/images/roboshare.webp" width="300">
