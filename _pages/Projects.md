@@ -20,6 +20,7 @@ This page is dedicated to the personal projects I have done over the years.
 <img src="../assets/images/swimdevice.webp" width="300">
 </div>
 <br>
+
 **Roboshare**
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 <div style="flex: 1;">
@@ -29,6 +30,7 @@ This page is dedicated to the personal projects I have done over the years.
 </div>
 <img src="../assets/images/roboshare.webp" width="300">
 </div>
+<br>
 
 **AgriVision**
 - Mathematical Proofs
