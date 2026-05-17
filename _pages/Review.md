@@ -28,6 +28,13 @@ Nearly all of the mathematics I know has been obtained through self-studying. Th
 
 ---
 
+## Books:
+- **Literary Fiction**
+  - *White Nights* - F. Dostoevsky
+
+      ltr.
+
+---
 
 <div id="project-popup" style="
 position: fixed;
