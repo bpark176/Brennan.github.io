@@ -14,7 +14,7 @@ This section of my portfolio contains my research projects, ranging from random 
 
 ---
 <a href="https://drive.google.com/file/d/1KiochZ-RqdEu8X_LWzlDm4PUDua_BN14/view" style="text-decoration: none;">
-**HiMCM 2025 Report (16953) - Brennan Park, Connor Seoung, Jion Choi, Jun Yi (11.25 - 11.25)**
+HiMCM 2025 Report (16953) - Brennan Park, Connor Seoung, Jion Choi, Jun Yi (11.25 - 11.25)
 </a>
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
