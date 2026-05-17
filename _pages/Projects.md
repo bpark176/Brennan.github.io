@@ -33,24 +33,35 @@ bottom: 20px;
 right: 20px;
 background: #222;
 color: white;
-padding: 14px 18px;
-border-radius: 10px;
-max-width: 260px;
+padding: 20px;
+border-radius: 16px;
+width: 280px;
 z-index: 999999;
+display: flex;
+flex-direction: column;
+justify-content: center;
 ">
 
 <button onclick="this.parentElement.style.display='none'" style="
-float:right;
-background:none;
-border:none;
-color:white;
-font-size:20px;
-cursor:pointer;
+position: absolute;
+top: 10px;
+right: 14px;
+background: none;
+border: none;
+color: white;
+font-size: 28px;
+cursor: pointer;
 ">
 ×
 </button>
 
-<p>
+<p style="
+margin: 0;
+text-align: center;
+line-height: 1.5;
+font-size: 18px;
+padding-top: 10px;
+">
 Click each project title to view its poster, paper, or related materials.
 </p>
 
