@@ -25,6 +25,7 @@ This page is dedicated to the personal projects I have done over the years.
 **AgriVision**
 - Mathematical Proofs
 
+---
 
 
 <div id="project-popup" style="
