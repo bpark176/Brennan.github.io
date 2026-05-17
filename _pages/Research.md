@@ -23,7 +23,7 @@ Write your research intro here — etc etc etc.
 
 </div>
 
-<img src="{{ '/assets/images/fire.webp' | relative_url }}" width="250">
+<img src="../assets/images/fire.webp" width="250">
 
 </div>
 ---
