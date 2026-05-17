@@ -9,7 +9,7 @@ comments: false
 share: false
 related: false
 ---
-This page is dedicated to the personal projects I have done over the years. 
+This page is dedicated to the personal projects I have done over the years. These projects reflect my interests in engineering, robotics, and figures. From independent experiments to collaborative work, each project represents a step in my growth as a student and creator.
 
 ---
 <h2 style="margin-bottom: 5px;">
