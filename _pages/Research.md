@@ -16,19 +16,6 @@ This section of my portfolio contains my research projects, ranging from random 
 <h2 style="margin-bottom: 5px;">
   <a href="https://drive.google.com/file/d/1KiochZ-RqdEu8X_LWzlDm4PUDua_BN14/view"
      style="text-decoration: none; color: inherit;">
-    HiMCM 2025 Report - Brennan Park, Connor Seoung, Jion Choi, Jun Yi
-  </a>
-</h2>
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-<div style="flex: 1;">
-We developed a mathematical model to optimize emergency evacuation sweep strategies in multi-use buildings during hazards. Using deterministic path planning and stochastic simulations inspired by Close Quarters Battle methods, we analyzed how factors like room size, occupancy, and building layout affect sweep efficiency. <b>(11.25 - 11.25)</b>
-</div>
-<img src="../assets/images/fire.webp" width="300">
-</div>
-
-<h2 style="margin-bottom: 5px;">
-  <a href="https://drive.google.com/file/d/1KiochZ-RqdEu8X_LWzlDm4PUDua_BN14/view"
-     style="text-decoration: none; color: inherit;">
     Using an On-Device VLM-Based Edge Computing System for Real-Time Disaster Detection - Brennan Park, Seungmin Song
   </a>
 </h2>
@@ -37,6 +24,19 @@ We developed a mathematical model to optimize emergency evacuation sweep strateg
 We developed an on-device edge computing system for real-time disaster detection using Vision-Language Models (VLMs) as an alternative to conventional CNN-based approaches. By comparing ImageNet-pretrained CNNs, fine-tuned CNNs, and the zero-shot VLM Gemma3-4B on the AIDER disaster dataset, we evaluated the feasibility of VLM-based edge inference on a Raspberry Pi 5 under five different seed conditions. I served as the lead researcher for this project. <b>(04.25 - 01.26)</b>
 </div>
 <img src="../assets/images/vlmbased.webp" width="300">
+</div>
+
+<h2 style="margin-bottom: 5px;">
+  <a href="https://drive.google.com/file/d/1KiochZ-RqdEu8X_LWzlDm4PUDua_BN14/view"
+     style="text-decoration: none; color: inherit;">
+    HiMCM 2025 Report - Brennan Park, Connor Seoung, Jion Choi, Jun Yi
+  </a>
+</h2>
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div style="flex: 1;">
+We developed a mathematical model to optimize emergency evacuation sweep strategies in multi-use buildings during hazards. Using deterministic path planning and stochastic simulations inspired by Close Quarters Battle methods, we analyzed how factors like room size, occupancy, and building layout affect sweep efficiency. <b>(11.25 - 11.25)</b>
+</div>
+<img src="../assets/images/fire.webp" width="300">
 </div>
 
 ---
