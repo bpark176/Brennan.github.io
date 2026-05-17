@@ -17,12 +17,10 @@ This page is dedicated to the personal projects I have done over the years.
 
 [Pacing Assistant System's Poster for KIYO](https://drive.google.com/file/d/1Lhq-FwRly7wlgx8qRTpLkb22dewvhWSQ/view)
 
-###**Roboshare**
-{: style="margin-bottom: 0.2em;" }
+**Roboshare**
 - I am a co-founder and the head of Marketing & Branding of Roboshare. RoboShare is a student-led non-profit initiative that unites aspiring roboticists across Korea to collaborate on VEX robotics and broader engineering projects. By creating an accessible space for knowledge exchange, design feedback, and peer mentorship, the platform empowers students to accelerate innovation.
 
 [Roboshare's Website](https://www.roboshare.kr/)
 
-###**AgriVision**
-{: style="margin-bottom: 0.2em;" }
+**AgriVision**
 - Mathematical Proofs
