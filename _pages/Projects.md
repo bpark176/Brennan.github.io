@@ -22,7 +22,7 @@ This page is dedicated to the personal projects I have done over the years.
 [Pacing Assistant System's Poster for KIYO](https://drive.google.com/file/d/1Lhq-FwRly7wlgx8qRTpLkb22dewvhWSQ/view)
 </div>
 
-<img src="../assets/images/swimdevice.webp" width="250">
+<img src="../assets/images/swimdevice.webp" width="300">
 
 </div>
 
