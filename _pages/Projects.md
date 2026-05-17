@@ -36,7 +36,6 @@ color: white;
 padding: 14px 18px;
 border-radius: 10px;
 max-width: 260px;
-box-shadow: 0 4px 12px rgba(0,0,0,0.3);
 z-index: 9999;
 ">
 
@@ -51,7 +50,7 @@ cursor:pointer;
 ×
 </button>
 
-<p style="margin-top:10px;">
+<p>
 Click each project title to view its poster, paper, or related materials.
 </p>
 
