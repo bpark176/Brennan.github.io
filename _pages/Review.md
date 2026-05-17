@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Math"
-permalink: /math/
+title: "Review"
+permalink: /review/
 author_profile: true
 show_date: false
 read_time: false
