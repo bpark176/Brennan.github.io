@@ -19,22 +19,15 @@ This section of my portfolio contains my research projects, ranging from random 
     HiMCM 2025 Report (16953) - Brennan Park, Connor Seoung, Jion Choi, Jun Yi (11.25 - 11.25)
   </a>
 </h2>
-
 <div style="display: flex; align-items: flex-start; gap: 20px;">
-
 <div style="flex: 1;">
-
-- We developed a mathematical model to optimize emergency evacuation sweep strategies in multi-use buildings during hazards. Using deterministic path planning and stochastic simulations inspired by Close Quarters Battle methods, we analyzed how factors like room size, occupancy, and building layout affect sweep efficiency.
-
+We developed a mathematical model to optimize emergency evacuation sweep strategies in multi-use buildings during hazards. Using deterministic path planning and stochastic simulations inspired by Close Quarters Battle methods, we analyzed how factors like room size, occupancy, and building layout affect sweep efficiency.
 </div>
-
 <img src="../assets/images/fire.webp" width="300">
-
 </div>
+
+
 ---
-
-
-
 <div id="project-popup" style="
 position: fixed;
 bottom: 20px;
