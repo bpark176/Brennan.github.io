@@ -60,7 +60,7 @@ margin: 0;
 text-align: center;
 line-height: 1.5;
 font-size: 18px;
-padding-top: 25px;
+padding-top: 12px;
 ">
 Click each project title to view its poster, paper, or related materials.
 </p>
