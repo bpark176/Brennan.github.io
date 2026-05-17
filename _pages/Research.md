@@ -24,7 +24,7 @@ This section of my portfolio contains my research projects, ranging from random 
 [Paper for the HiMCM 2025 Report](https://drive.google.com/file/d/1KiochZ-RqdEu8X_LWzlDm4PUDua_BN14/view)
 </div>
 
-<img src="../assets/images/fire.webp" width="250">
+<img src="../assets/images/fire.webp" width="300">
 
 </div>
 ---
