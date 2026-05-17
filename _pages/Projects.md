@@ -13,7 +13,7 @@ This page is dedicated to the personal projects I have done over the years.
 
 ---
 <h2 style="margin-bottom: 5px;">
-  <a href="https://drive.google.com/file/d/1KiochZ-RqdEu8X_LWzlDm4PUDua_BN14/view"
+  <a href="https://drive.google.com/file/d/1Lhq-FwRly7wlgx8qRTpLkb22dewvhWSQ/view"
      style="text-decoration: none; color: inherit;">
     Pacing Assistant System for Visually Impaired Swimmers
   </a>
