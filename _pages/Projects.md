@@ -85,3 +85,105 @@ Click each project title to view its poster, paper, or related materials.
 </p>
 
 </div>
+
+
+
+
+<button id="duckButton" style="
+position: fixed;
+top: 120px;
+right: 20px;
+background: red;
+color: black;
+border: 3px solid #007BFF;
+border-radius: 10px;
+padding: 8px 14px;
+font-size: 14px;
+font-weight: bold;
+cursor: pointer;
+z-index: 999999;
+">
+Turn duck on!
+</button>
+
+<script>
+const duckButton = document.getElementById("duckButton");
+
+let ducksActive = false;
+let duckIntervals = [];
+
+duckButton.addEventListener("click", function () {
+
+  ducksActive = !ducksActive;
+
+  if (ducksActive) {
+
+    duckButton.innerText = "Turn duck off!";
+    duckButton.style.background = "limegreen";
+
+    createLoopingDuck("40px", "50px", "left");
+    createLoopingDuck("300px", "35px", "right");
+    createLoopingDuck("550px", "70px", "left");
+
+  } else {
+
+    duckButton.innerText = "Turn duck on!";
+    duckButton.style.background = "red";
+
+    duckIntervals.forEach(interval => clearInterval(interval));
+    duckIntervals = [];
+
+    document.querySelectorAll(".duck").forEach(d => d.remove());
+  }
+});
+
+function createLoopingDuck(height, size, direction) {
+
+  function spawnDuck() {
+
+    const duck = document.createElement("div");
+
+    duck.className = "duck";
+    duck.innerText = "🦆";
+
+    duck.style.position = "fixed";
+    duck.style.fontSize = size;
+    duck.style.zIndex = "999998";
+    duck.style.pointerEvents = "none";
+    duck.style.transition = "transform 12s linear";
+
+    if (direction === "left") {
+
+      duck.style.left = "-100px";
+      duck.style.top = height;
+
+      document.body.appendChild(duck);
+
+      setTimeout(() => {
+        duck.style.transform = "translateX(120vw)";
+      }, 50);
+
+    } else {
+
+      duck.style.right = "-100px";
+      duck.style.top = height;
+      duck.style.transform = "scaleX(-1)";
+
+      document.body.appendChild(duck);
+
+      setTimeout(() => {
+        duck.style.transform = "translateX(-120vw) scaleX(-1)";
+      }, 50);
+    }
+
+    setTimeout(() => {
+      duck.remove();
+    }, 12000);
+  }
+
+  spawnDuck();
+
+  const interval = setInterval(spawnDuck, 4000);
+  duckIntervals.push(interval);
+}
+</script>
