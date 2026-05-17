@@ -12,11 +12,12 @@ related: false
 This page is dedicated to the personal projects I have done over the years. 
 
 ---
-<a href="https://drive.google.com/file/d/1Lhq-FwRly7wlgx8qRTpLkb22dewvhWSQ/view" style="text-decoration: none; color: inherit;">
-  <h2 style="margin-bottom: 5px;">
+<h2 style="margin-bottom: 5px;">
+  <a href="https://drive.google.com/file/d/1KiochZ-RqdEu8X_LWzlDm4PUDua_BN14/view"
+     style="text-decoration: none; color: inherit;">
     Pacing Assistant System for Visually Impaired Swimmers
-  </h2>
-</a>
+  </a>
+</h2>
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 <div style="flex: 1;">
 - I designed a model of a pacing assistant system for visually impaired swimmers that enables independent lane navigation and consistent stroke rhythm without relying on traditional tapper assistance. The device integrates real-time distance sensing with timed feedback to an app, providing coaches with immediate data. The project was submitted to the IT Coding Invention contest and was awarded Bronze. Later, it earned Gold and the Ministry of Trade, Industry & Energy Special Award at the Korea International Youth Olympiad. The invention is currently in the patent application process. 
