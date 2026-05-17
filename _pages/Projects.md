@@ -20,7 +20,7 @@ This page is dedicated to the personal projects I have done over the years.
 </h2>
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 <div style="flex: 1;">
-- I designed a model of a pacing assistant system for visually impaired swimmers that enables independent lane navigation and consistent stroke rhythm without relying on traditional tapper assistance. The device integrates real-time distance sensing with timed feedback to an app, providing coaches with immediate data. The project was submitted to the IT Coding Invention contest and was awarded Bronze. Later, it earned Gold and the Ministry of Trade, Industry & Energy Special Award at the Korea International Youth Olympiad. The invention is currently in the patent application process. 
+I designed a model of a pacing assistant system for visually impaired swimmers that enables independent lane navigation and consistent stroke rhythm without relying on traditional tapper assistance. The device integrates real-time distance sensing with timed feedback to an app, providing coaches with immediate data. The project was submitted to the IT Coding Invention contest and was awarded Bronze. Later, it earned Gold and the Ministry of Trade, Industry & Energy Special Award at the Korea International Youth Olympiad. The invention is currently in the patent application process. 
 </div>
 <img src="../assets/images/swimdevice.webp" width="300">
 </div>
@@ -33,19 +33,19 @@ This page is dedicated to the personal projects I have done over the years.
 </h2>
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 <div style="flex: 1;">
-- I am a co-founder and the head of Marketing & Branding of Roboshare. RoboShare is a student-led non-profit initiative that unites aspiring roboticists across Korea to collaborate on VEX robotics and broader engineering projects. By creating an accessible space for knowledge exchange, design feedback, and peer mentorship, the platform empowers students to accelerate innovation.
-
+I am a co-founder and the head of Marketing & Branding of Roboshare. RoboShare is a student-led non-profit initiative that unites aspiring roboticists across Korea to collaborate on VEX robotics and broader engineering projects. By creating an accessible space for knowledge exchange, design feedback, and peer mentorship, the platform empowers students to accelerate innovation.
 </div>
 <img src="../assets/images/roboshare.webp" width="300">
 </div>
-
 <h2 style="margin-bottom: 5px;">AgriVision</h2>
 <h2 style="margin-bottom: 5px;">Mathematical Proofs</h2>
 
 
+
+
+
+
 ---
-
-
 <div id="project-popup" style="
 position: fixed;
 bottom: 20px;
