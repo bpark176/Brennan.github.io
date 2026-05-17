@@ -13,7 +13,7 @@ This page is dedicated to the personal projects I have done over the years.
 
 ---
 **Pacing Assistant System for Visually Impaired Swimmers**
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div style="display: flex; align-items: center; gap: 20px;">
 
 <div style="flex: 1;">
 
