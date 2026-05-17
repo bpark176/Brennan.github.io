@@ -36,3 +36,41 @@ z-index: 999999;
 ">
 Turn duck on!
 </button>
+
+<script>
+const duckButton = document.getElementById("duckButton");
+
+duckButton.addEventListener("click", function () {
+  if (duckButton.innerText === "Turn duck on!") {
+    duckButton.innerText = "Turn duck off!";
+    duckButton.style.background = "limegreen";
+
+    const duck = document.createElement("div");
+    duck.id = "walkingDuck";
+    duck.innerText = "🦆";
+    duck.style.position = "fixed";
+    duck.style.left = "-80px";
+    duck.style.bottom = "40px";
+    duck.style.fontSize = "50px";
+    duck.style.zIndex = "999998";
+    duck.style.transition = "left 6s linear";
+
+    document.body.appendChild(duck);
+
+    setTimeout(() => {
+      duck.style.left = "110vw";
+    }, 100);
+
+    setTimeout(() => {
+      duck.remove();
+    }, 6500);
+
+  } else {
+    duckButton.innerText = "Turn duck on!";
+    duckButton.style.background = "red";
+
+    const duck = document.getElementById("walkingDuck");
+    if (duck) duck.remove();
+  }
+});
+</script>
