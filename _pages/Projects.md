@@ -27,31 +27,32 @@ This page is dedicated to the personal projects I have done over the years.
 
 
 
-<div id="project-popup">
-  <button onclick="document.getElementById('project-popup').style.display='none'">×</button>
-  <p>Make sure to click on the title of each project.</p>
+<div id="project-popup" style="
+position: fixed;
+bottom: 20px;
+right: 20px;
+background: #222;
+color: white;
+padding: 14px 18px;
+border-radius: 10px;
+max-width: 260px;
+box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+z-index: 9999;
+">
+
+<button onclick="this.parentElement.style.display='none'" style="
+float:right;
+background:none;
+border:none;
+color:white;
+font-size:20px;
+cursor:pointer;
+">
+×
+</button>
+
+<p style="margin-top:10px;">
+Click each project title to view its poster, paper, or related materials.
+</p>
+
 </div>
-
-<style>
-#project-popup {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  background: #222;
-  color: white;
-  padding: 14px 18px;
-  border-radius: 10px;
-  max-width: 260px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
-  z-index: 9999;
-}
-
-#project-popup button {
-  float: right;
-  background: none;
-  border: none;
-  color: white;
-  font-size: 20px;
-  cursor: pointer;
-}
-</style>
