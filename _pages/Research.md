@@ -13,7 +13,7 @@ related: false
 This section of my portfolio contains my research projects, ranging from random experiments to more academic work. Each project reflects my curiosity in exploring practical and thought-provoking topics through research.
 
 ---
-HiMCM 2025 Report (16953) - Brennan Park, Connor Seoung, Jion Choi, Jun Yi (11.25 - 11.25)
+**HiMCM 2025 Report (16953) - Brennan Park, Connor Seoung, Jion Choi, Jun Yi (11.25 - 11.25)**
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
