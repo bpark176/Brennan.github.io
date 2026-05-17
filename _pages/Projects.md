@@ -33,7 +33,8 @@ This page is dedicated to the personal projects I have done over the years.
 <br>
 
 **AgriVision**
-- Mathematical Proofs
+
+**Mathematical Proofs**
 
 ---
 
