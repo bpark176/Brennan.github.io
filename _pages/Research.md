@@ -28,3 +28,45 @@ This section of my portfolio contains my research projects, ranging from random 
 
 </div>
 ---
+
+
+
+<div id="project-popup" style="
+position: fixed;
+bottom: 20px;
+right: 20px;
+background: #222;
+color: white;
+padding: 20px;
+border-radius: 16px;
+width: 280px;
+z-index: 999999;
+display: flex;
+flex-direction: column;
+justify-content: center;
+">
+
+<button onclick="this.parentElement.style.display='none'" style="
+position: absolute;
+top: 10px;
+right: 14px;
+background: none;
+border: none;
+color: white;
+font-size: 28px;
+cursor: pointer;
+">
+×
+</button>
+
+<p style="
+margin: 0;
+text-align: center;
+line-height: 1.5;
+font-size: 18px;
+padding-top: 12px;
+">
+Click each project title to view its poster, paper, or related materials.
+</p>
+
+</div>
