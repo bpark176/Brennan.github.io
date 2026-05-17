@@ -36,7 +36,7 @@ We developed a mathematical model to optimize emergency evacuation sweep strateg
 <div style="flex: 1;">
 We developed an on-device edge computing system for real-time disaster detection using Vision-Language Models (VLMs) as an alternative to conventional CNN-based approaches. By comparing ImageNet-pretrained CNNs, fine-tuned CNNs, and the zero-shot VLM Gemma3-4B on the AIDER disaster dataset, we evaluated the feasibility of VLM-based edge inference on a Raspberry Pi 5 under five different seed conditions. I served as the lead researcher for this project. 
 </div>
-<img src="../assets/images/fire.webp" width="300">
+<img src="../assets/images/vlmbased.webp" width="300">
 </div>
 
 ---
