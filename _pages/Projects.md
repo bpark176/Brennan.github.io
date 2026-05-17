@@ -36,7 +36,7 @@ color: white;
 padding: 14px 18px;
 border-radius: 10px;
 max-width: 260px;
-z-index: 9999;
+z-index: 999999;
 ">
 
 <button onclick="this.parentElement.style.display='none'" style="
