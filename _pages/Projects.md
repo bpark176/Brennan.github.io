@@ -42,6 +42,9 @@ I am a co-founder and the head of Marketing & Branding of Roboshare. RoboShare i
 
 <h2 style="margin-bottom: 5px;">Random Projects</h2>
 
+**Hollow Knight: The Knight**
+
+**Mega Man**
 
 
 
