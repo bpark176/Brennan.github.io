@@ -23,9 +23,7 @@ plugins:
 author:
   name   : "Brennan Park"
   avatar : "https://i.pinimg.com/736x/c7/44/8e/c7448e77953683dc5c99f28ee8ad622b.jpg"
-  bio    : 
-    - label: "Seoul International School"
-      url: "https://www.siskorea.org/"
+  bio: "[Seoul International School](https://www.siskorea.org/)"
   links:
     - label: "South Korea"
       icon: "fas fa-fw fa-map-marker-alt"
