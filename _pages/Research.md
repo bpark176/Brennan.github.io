@@ -21,7 +21,7 @@ This section of my portfolio contains my research projects, ranging from random 
 </h2>
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 <div style="flex: 1;">
-I developed an on-device edge computing system for real-time disaster detection using Vision-Language Models (VLMs) as an alternative to conventional CNN-based approaches. By comparing ImageNet-pretrained CNNs, fine-tuned CNNs, and the zero-shot VLM Gemma3-4B on the AIDER disaster dataset, I evaluated the feasibility of VLM-based edge inference on a Raspberry Pi 5 under five different seed conditions. <b>(04.25 - 01.26)</b>
+I developed an on-device edge computing system for real-time disaster detection using Vision-Language Models (VLMs) as an alternative to conventional CNN-based approaches. By comparing ImageNet-pretrained CNNs, fine-tuned CNNs, and the zero-shot VLM Gemma3-4B on the AIDER disaster dataset, I evaluated the feasibility of VLM-based edge inference on a Raspberry Pi 5 under five different seed conditions. <b>(04/2025 - 01/2026)</b>
 </div>
 <img src="../assets/images/vlmbased.webp" width="300">
 </div>
@@ -34,7 +34,7 @@ I developed an on-device edge computing system for real-time disaster detection 
 </h2>
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 <div style="flex: 1;">
-We developed a mathematical model to optimize emergency evacuation sweep strategies in multi-use buildings during hazards. Using deterministic path planning and stochastic simulations inspired by Close Quarters Battle methods, we analyzed how factors like room size, occupancy, and building layout affect sweep efficiency. <b>(11.25 - 11.25)</b>
+We developed a mathematical model to optimize emergency evacuation sweep strategies in multi-use buildings during hazards. Using deterministic path planning and stochastic simulations inspired by Close Quarters Battle methods, we analyzed how factors like room size, occupancy, and building layout affect sweep efficiency. <b>(11/2025)</b>
 </div>
 <img src="../assets/images/fire.webp" width="300">
 </div>
