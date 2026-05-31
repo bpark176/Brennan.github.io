@@ -20,7 +20,7 @@ This page is dedicated to the personal projects I have done over the years. Thes
 </h2>
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 <div style="flex: 1;">
-I designed a model of a pacing assistant system for visually impaired swimmers that enables independent lane navigation and consistent stroke rhythm without relying on traditional tapper assistance. The device integrates real-time distance sensing with timed feedback to an app, providing coaches with immediate data. The project was submitted to the IT Coding Invention contest and was awarded Bronze. Later, it earned Gold and the Ministry of Trade, Industry & Energy Special Award at the Korea International Youth Olympiad. The invention is currently in the patent application process. <b>(04/2025 - 06/2025)</b>
+I designed a model of a pacing assistant system for visually impaired swimmers that enables independent lane navigation and consistent stroke rhythm without relying on traditional tapper assistance. The device integrates real-time distance sensing with timed feedback to an app, providing coaches with immediate data. The invention is currently in the patent application process. <b>(04/2025 - 06/2025)</b>
 </div>
 <img src="../assets/images/swimdevice.webp" width="300">
 </div>
