@@ -40,17 +40,6 @@ I am a co-founder and the head of Marketing & Branding of Roboshare. RoboShare i
 <h2 style="margin-bottom: 5px;">AgriVision</h2>
 <h2 style="margin-bottom: 5px;">Mathematical Proofs</h2>
 
-<h2 style="margin-bottom: 5px;">Random Projects</h2>
-
-**Hollow Knight: The Knight**
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-<div style="flex: 1;">
-A model of The Knight from Hollow Knight.
-</div>
-<img src="../assets/images/The_Knight.webp" width="300">
-</div>
-
-**Mega Man**
 
 
 
