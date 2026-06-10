@@ -12,6 +12,24 @@ related: false
 This page is dedicated to the personal projects I have done over the years. These projects reflect my interests in engineering, robotics, and figures. From independent experiments to collaborative work, each project represents a step in my growth as a student and creator.
 
 ---
+
+<h2 style="margin-bottom: 5px;">AgriVision</h2>
+
+<h2 style="margin-bottom: 5px;">
+  <a href="https://drive.google.com/file/d/1Lhq-FwRly7wlgx8qRTpLkb22dewvhWSQ/view"
+     style="text-decoration: none; color: inherit;">
+    Water Rocket
+  </a>
+</h2>
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div style="flex: 1;">
+I designed a. <b>(05/2025 - 06/2025)</b>
+</div>
+<img src="../assets/images/swimdevice.webp" width="300">
+</div>
+
+<h2 style="margin-bottom: 5px;">Mathematical Proofs</h2>
+
 <h2 style="margin-bottom: 5px;">
   <a href="https://drive.google.com/file/d/1Lhq-FwRly7wlgx8qRTpLkb22dewvhWSQ/view"
      style="text-decoration: none; color: inherit;">
@@ -37,9 +55,6 @@ I am a co-founder and the head of Marketing & Branding of Roboshare. RoboShare i
 </div>
 <img src="../assets/images/roboshare.webp" width="300">
 </div>
-<h2 style="margin-bottom: 5px;">AgriVision</h2>
-<h2 style="margin-bottom: 5px;">Mathematical Proofs</h2>
-
 
 
 
