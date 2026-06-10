@@ -22,10 +22,12 @@ This page is dedicated to the personal projects I have done over the years. Thes
   </a>
 </h2>
 <div style="display: flex; align-items: flex-start; gap: 20px;">
-<div style="flex: 1;">
-I designed a. <b>(05/2025 - 06/2025)</b>
-</div>
-<img src="../assets/gif/RocketGif.mp4" width="300">
+  <div style="flex: 1;">
+    I designed a water rocket. <b>(05/2025 - 06/2025)</b>
+  </div>
+  <video width="300" autoplay loop muted playsinline>
+    <source src="../assets/gif/RocketGif.mp4" type="video/mp4">
+  </video>
 </div>
 
 <h2 style="margin-bottom: 5px;">Mathematical Proofs</h2>
