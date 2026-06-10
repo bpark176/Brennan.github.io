@@ -25,7 +25,7 @@ This page is dedicated to the personal projects I have done over the years. Thes
 <div style="flex: 1;">
 I designed a. <b>(05/2025 - 06/2025)</b>
 </div>
-<img src="../assets/images/Water_Rocket.webp" width="300">
+<img src="../assets/gif/RocketGif.mp4" width="300">
 </div>
 
 <h2 style="margin-bottom: 5px;">Mathematical Proofs</h2>
