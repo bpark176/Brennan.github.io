@@ -23,7 +23,7 @@ This page is dedicated to the personal projects I have done over the years. Thes
 </h2>
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <div style="flex: 1;">
-    I designed a water rocket. <b>(05/2025 - 06/2025)</b>
+    Expanded a school physics rocket-launch lab into an interactive Python simulation tool for optimizing water bottle rocket performance. The app lets users adjust fill percentage, launch pressure, and rocket mass, then compares ideal and realistic flight models. <b>(05/2025 - 06/2025)</b>
   </div>
   <video width="300" autoplay loop muted playsinline>
     <source src="../assets/gif/RocketGif.mp4" type="video/mp4">
