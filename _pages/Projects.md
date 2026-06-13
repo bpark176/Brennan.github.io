@@ -23,7 +23,7 @@ This page is dedicated to the personal projects I have done over the years. Thes
 </h2>
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <div style="flex: 1;">
-    Expanded a school physics rocket-launch lab into an interactive Python simulation tool for optimizing water bottle rocket performance. The app lets users adjust fill percentage, launch pressure, and rocket mass, then compares ideal and realistic flight models. <b>(05/2025 - 06/2025)</b>
+    Originally assigned as a physics SBE lab that required only the construction and launch of a water bottle rocket, I expanded the project into an interactive, Python-based flight-optimization tool. The program allows users to adjust water fill percentage, launch pressure, and rocket mass, then simulates the rocket's flight. It also compares ideal and realistic drag-based flight models. Overall, this was a really fun project to do, as it allowed me to interplay with applied physics and coding. <b>(05/2025 - 06/2025)</b>
   </div>
   <video width="300" autoplay loop muted playsinline>
     <source src="../assets/gif/RocketGif.mp4" type="video/mp4">
