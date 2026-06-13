@@ -30,7 +30,18 @@ This page is dedicated to the personal projects I have done over the years. Thes
   </video>
 </div>
 
-<h2 style="margin-bottom: 5px;">Mathematical Proofs</h2>
+<h2 style="margin-bottom: 5px;">
+  <a href="https://drive.google.com/file/d/1SYp8Jrdz3xWtcf4ardse8WKeJ6jwZSGA/view"
+     style="text-decoration: none; color: inherit;">
+    Mathematical Proofs
+  </a>
+</h2>
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <div style="flex: 1;">
+    ltr. <b>(11/2024 - 11/2026)</b>
+</div>
+<img src="../assets/images/swimdevice.webp" width="300">
+</div>
 
 <h2 style="margin-bottom: 5px;">
   <a href="https://drive.google.com/file/d/1Lhq-FwRly7wlgx8qRTpLkb22dewvhWSQ/view"
