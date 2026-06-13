@@ -40,7 +40,7 @@ This page is dedicated to the personal projects I have done over the years. Thes
   <div style="flex: 1;">
     ltr. <b>(11/2024 - 11/2026)</b>
 </div>
-<img src="../assets/images/swimdevice.webp" width="300">
+<img src="../assets/images/Mathematical_Proofs.webp" width="300">
 </div>
 
 <h2 style="margin-bottom: 5px;">
