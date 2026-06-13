@@ -34,9 +34,9 @@ author:
     - label: "Math SE"
       icon: "fab fa-fw fa-stack-exchange"
       url: "https://math.stackexchange.com/users/1721915/brennan-park"
-    - label: "Youtube"
-      icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/@bkp176"
+    - label: "Goodreads"
+      icon: "fab fa-fw fa-goodreads"
+      url: "https://www.goodreads.com/user/show/187010525-brennan-park"
 
 defaults:
   - scope:
