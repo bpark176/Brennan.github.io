@@ -9,7 +9,7 @@ comments: false
 share: false
 related: false
 ---
-Nearly all of the mathematics I know has been obtained through self-studying. This page is dedicated to my mathematical journey. I will document my textbooks, and I will write a short review of them. I will also write reviews of math books that I found interesting. 
+ltr. 
 
 ---
 
@@ -17,15 +17,37 @@ Nearly all of the mathematics I know has been obtained through self-studying. Th
 - **Literary Fiction**
   - *White Nights* - F. Dostoevsky
 
-      ltr.
-
+      The most emotional and profound novella I think I will ever read in my lifetime. The first line of White Nights: "It was a wonderful night, such a night as is only possible when we are young, dear reader," perfectly, in my opinion, encapsulates the magic of certain experiences tied to youth. The whole novella is a beautiful, magical voyage that cannot be expressed in mere words. The story’s profoundly complex and vividly described scenes leave the reader wanting to visit Saint Petersburg. Overall, a novella I would definitely recommend to anyone. 
+  
+- **Science Fiction**
+ 
+- **Historical Fiction**
+  
+- **Dystopian Fiction**
+ 
+- **Classics**
+  
+- **Philosophy**
+  
+- **Mystery / Thriller**
+  
+- **Nonfiction**
+  
+- **Science / Technology**
+  
+- **Biography / Memoir**
+  
+- **Psychology / Human Behavior**
+  
+- **Poetry**
+  
 ---
 
 ## Textbooks:
 - **Precalculus**
   - *Precalculus: Mathematics for Calculus* - J. Stewart, L. Redlin, S. Watson
 
-      Don't remember much about this one, but I recall it being a solid, comprehensive preparation for calculus. It covered all the essential topics, such as functions, trigonometry, and logarithms. While nothing about it was bad, it wasn't unique. It provided everything necessary, but nothing more.  
+      Don't remember much about this one, but I recall it being a solid, comprehensive preparation for calculus. It covered all the essential topics, such as functions, trigonometry, and logarithms. One component of this textbook that I really liked was the abundance of application problems in each unit. 
     
 - **Linear Algebra**
   - *Linear Algebra: A Modern Introduction* - D. Poole
