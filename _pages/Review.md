@@ -21,6 +21,9 @@ ltr.
   
   
 - **Dystopian Fiction**
+ - *Animal Farm* - G. Orwell
+
+      Although I was kind of forced to read Animal Farm (it was an assigned book for my freshman English class), I'm so glad that the English 9 teachers chose it. ltr
  
 - **Classics**
   
