@@ -23,7 +23,7 @@ This page is dedicated to the personal projects I have done over the years. Thes
 </h2>
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <div style="flex: 1;">
-    Originally assigned as a physics SBE lab that required only the construction and launch of a water bottle rocket, I expanded the project into an interactive, Python-based flight-optimization tool. The program allows users to adjust water fill percentage, launch pressure, and rocket mass, then simulates the rocket's flight. It also compares ideal and realistic drag-based flight models. Overall, this was a really fun project to do, as it allowed me to interplay with applied physics and coding. <b>(05/2025 - 06/2025)</b>
+    Originally assigned as a physics SBE lab that required only the construction and launch of a water bottle rocket. I expanded the project into an interactive, Python-based flight-optimization tool. The program allows users to adjust water fill percentage, launch pressure, and rocket mass, then simulates the rocket's flight. It also compares ideal and realistic drag-based flight models. Overall, this was a really fun project to do, as it allowed me to play around with applied physics and coding. <b>(05/2025 - 06/2025)</b>
   </div>
   <video width="300" autoplay loop muted playsinline>
     <source src="../assets/gif/RocketGif.mp4" type="video/mp4">
@@ -38,7 +38,7 @@ This page is dedicated to the personal projects I have done over the years. Thes
 </h2>
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <div style="flex: 1;">
-    ltr. <b>(11/2024 - 11/2026)</b>
+    A book/compilation of some of my favorite proofs and proofs that I find to be essential. I started this project back in my freshman year of highschool and I continue to add to it whenever I learn something interesting or new. The book was created in Overleaf with LaTeX. <b>(11/2024 - 11/2026)</b>
 </div>
 <img src="../assets/images/Mathematical_Proofs.webp" width="300">
 </div>
