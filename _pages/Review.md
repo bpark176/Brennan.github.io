@@ -17,7 +17,7 @@ ltr.
 - **Literary Fiction**
   - *White Nights* - F. Dostoevsky
 
-      The most emotional and profound novella I think I will ever read in my lifetime. The first line of White Nights: "It was a wonderful night, such a night as is only possible when we are young, dear reader," perfectly, in my opinion, encapsulates the magic of certain experiences tied to youth. The whole novella is a beautiful, magical voyage that cannot be expressed in mere words. The story’s profoundly complex and vividly described scenes leave the reader wanting to visit Saint Petersburg. Overall, a novella I would definitely recommend to anyone. 
+      The most emotional and profound novella I think I will ever read in my lifetime. I know that some people do not like White Nights, as it doesn't "represent" Dostoevsky, but I disagree. The first line of White Nights: "It was a wonderful night, such a night as is only possible when we are young, dear reader," perfectly, in my opinion, encapsulates the magic of certain experiences tied to youth. The whole novella is a beautiful, magical voyage that cannot be expressed in mere words. The story’s profoundly complex and vividly described scenes leave the reader wanting to visit Saint Petersburg. Overall, a novella I would definitely recommend to anyone. 
   
 - **Science Fiction**
  
@@ -47,7 +47,7 @@ ltr.
 - **Precalculus**
   - *Precalculus: Mathematics for Calculus* - J. Stewart, L. Redlin, S. Watson
 
-      Don't remember much about this one, but I recall it being a solid, comprehensive preparation for calculus. It covered all the essential topics, such as functions, trigonometry, and logarithms. One component of this textbook that I really liked was the abundance of application problems in each unit. 
+      Although I do not remember too much about this textbook, I remember it to be very comprehensive with a lot of practice application-based problems. From the rational theorem to De Moivre's theorem, the textbook also does a good job in introducing more advanced concepts like complex planes and parts of linear algbera. 
     
 - **Linear Algebra**
   - *Linear Algebra: A Modern Introduction* - D. Poole
