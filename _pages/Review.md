@@ -47,7 +47,7 @@ ltr.
 - **Precalculus**
   - *Precalculus: Mathematics for Calculus* - J. Stewart, L. Redlin, S. Watson
 
-      Although I do not remember too much about this textbook, I remember it to be very comprehensive with a lot of practice application-based problems. From the rational theorem to De Moivre's theorem, the textbook also does a good job in introducing more advanced concepts like complex planes and parts of linear algbera. 
+      Although I do not remember too much about this textbook, I remember it to be very comprehensive with a lot of practice application-based problems. From the rational theorem to De Moivre's theorem, the textbook also does a good job in introducing more advanced concepts like complex planes and parts of linear algebra. 
     
 - **Linear Algebra**
   - *Linear Algebra: A Modern Introduction* - D. Poole
