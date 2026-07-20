@@ -15,6 +15,13 @@ This page is dedicated to the personal projects I have done over the years. Thes
 
 <h2 style="margin-bottom: 5px;">AgriVision</h2>
 
+<h2 style="margin-bottom: 5px;">Quantum Dots Lab - ESAP</h2>
+
+<h2 style="margin-bottom: 5px;">Microfluidics Lab - ESAP</h2>
+
+<h2 style="margin-bottom: 5px;">Microletters Lab - ESAP</h2>
+
+
 <h2 style="margin-bottom: 5px;">
   <a href="https://drive.google.com/file/d/1Lhq-FwRly7wlgx8qRTpLkb22dewvhWSQ/view"
      style="text-decoration: none; color: inherit;">
