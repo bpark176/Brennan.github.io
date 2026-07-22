@@ -9,7 +9,7 @@ comments: false
 share: false
 related: false
 ---
-ltr. 
+This page is dedicated to reviewing the books, textbooks, and movies I have read/watched. 
 
 ---
 
