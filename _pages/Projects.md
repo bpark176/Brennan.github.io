@@ -71,8 +71,6 @@ I am a co-founder and the head of Marketing & Branding of Roboshare. RoboShare i
 
 ---
 
-<h1 style="margin-bottom: 5px;">Random Projects</h1>
-
 <h2 style="margin-bottom: 5px;">Quantum Dots Lab (ESAP)</h2>
 
 <h2 style="margin-bottom: 5px;">Microfluidics Lab (ESAP)</h2>
