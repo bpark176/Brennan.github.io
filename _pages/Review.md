@@ -52,4 +52,4 @@ This page is dedicated to reviewing the books, textbooks, and movies I have read
       A well-written introduction to linear algebra. Unlike many textbooks, such as those by Strang or Lay, Poole introduces the concept of vectors first instead of systems of linear equations, which is especially helpful for someone with no prior experience in linear algebra. Another thing I like about this textbook is that it is filled with what the textbook calls “explorations and vignettes,” which are essentially applications of concepts to real-life scenarios. Overall, a fine linear algebra textbook for engineers/not pure math tracks.
 
 
-<script src="../assets/js/duck-easter-egg.js"></script>
+<script src="{{ '/assets/js/duck-easter-egg.js' | relative_url }}"></script>
