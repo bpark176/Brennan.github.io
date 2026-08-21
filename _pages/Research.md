@@ -56,4 +56,4 @@ We developed a mathematical model to optimize emergency evacuation sweep strateg
 </div>
 
 
-<script src="../assets/js/duck-easter-egg.js"></script>
+<script src="{{ '/assets/js/duck-easter-egg.js' | relative_url }}"></script>
