@@ -10,7 +10,7 @@ share: false
 related: false
 
 ---
-This section of my portfolio contains my research projects, ranging from random modeling of situations to more academic work. Each project reflects my curiosity in exploring practical and thought-provoking topics through research.
+This section of my portfolio is meant to be an archive of my research papers, ranging from non-rigorous to rigorous studies. Each project reflects my curiosity in exploring practical and thought-provoking solutions through research.
 
 ---
 <h2 style="margin-bottom: 5px;">
