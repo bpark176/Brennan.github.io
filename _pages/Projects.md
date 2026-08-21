@@ -27,7 +27,7 @@ This page is dedicated to the personal projects I have done over the years. Thes
   <div style="flex: 1;">
     For my final capstone project at the Engineering Summer Academy at Penn, nanotechnology track, my teammates and I created an affordable multispectral fluorescence emission analyzer by utilizing the AS7341 sensor. Laboratory spectrometers tend to cost anywhere between $1,000 and $70,000 dollars, which is very likely out of the budget of most schools or individual scientists. Hence, we created an affordable spectrometer, which costs about $200. We are currently in the process of writing a paper, under the supervision of Dr. Gyuseok Kim at the University of Pennsylvania. <b>(07/2024 - 08/2026)</b>
 </div>
-<img src="../assets/images/Mathematical_Proofs.webp" width="300">
+<img src="../assets/images/Spectra365.webp" width="300">
 </div>
 
 <h2 style="margin-bottom: 5px;">
