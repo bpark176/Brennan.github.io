@@ -98,4 +98,4 @@ Co-founder and the head of Marketing & Branding of Roboshare. RoboShare is a stu
 </div>
 
 
-<script src="../assets/js/duck-easter-egg.js"></script>
+<script src="{{ '/assets/js/duck-easter-egg.js' | relative_url }}"></script>
