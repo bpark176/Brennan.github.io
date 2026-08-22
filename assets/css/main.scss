@@ -11,3 +11,131 @@ search: false
 .layout--single .page__content {
   max-width: 100% !important;
 }
+
+/* Portfolio project layouts */
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+  overflow-x: clip;
+}
+
+.page__content img,
+.page__content video,
+.page__content iframe,
+.page__content embed,
+.page__content object {
+  max-width: 100%;
+}
+
+.portfolio-project__title {
+  margin-top: 2.25rem;
+  scroll-margin-top: 5rem;
+}
+
+.portfolio-project__title a {
+  display: inline-block;
+  min-height: 2.75rem;
+}
+
+.portfolio-project {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(288px, 340px);
+  align-items: start;
+  gap: clamp(1.25rem, 3vw, 2rem);
+  margin-bottom: 3rem;
+}
+
+.portfolio-project__body {
+  min-width: 0;
+}
+
+.portfolio-project__media {
+  display: block;
+  justify-self: end;
+  width: min(100%, 340px);
+  height: auto;
+  margin: 0;
+  object-fit: contain;
+}
+
+video.portfolio-project__media {
+  aspect-ratio: 16 / 9;
+  background: #111;
+}
+
+@media (max-width: 72em) {
+  .portfolio-project {
+    grid-template-columns: minmax(0, 1fr) minmax(240px, 300px);
+    gap: 1.5rem;
+  }
+
+  .portfolio-project__media {
+    width: min(100%, 300px);
+  }
+}
+
+@media (max-width: 56.25em) {
+  .portfolio-project {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1.25rem;
+    margin-bottom: 2.5rem;
+  }
+
+  .portfolio-project__media {
+    justify-self: start;
+    width: min(100%, 416px);
+  }
+}
+
+@media (max-width: 48em) {
+  .page__content {
+    font-size: 1rem;
+  }
+
+  .page__content p,
+  .page__content li {
+    line-height: 1.65;
+  }
+
+  .portfolio-project__title {
+    margin-top: 2rem;
+    font-size: clamp(1.4rem, 7vw, 1.85rem);
+    line-height: 1.25;
+  }
+
+  .masthead__menu-item a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 2.75rem;
+    padding: 0.75rem 0.7rem;
+  }
+
+  .greedy-nav__toggle,
+  .site-title {
+    min-height: 2.75rem;
+  }
+}
+
+@media (max-width: 30em) {
+  .page__content {
+    font-size: 0.98rem;
+  }
+
+  .portfolio-project {
+    gap: 1rem;
+    margin-bottom: 2.25rem;
+  }
+
+  .portfolio-project__media {
+    width: 100%;
+  }
+}
+
+@media (max-height: 32em) and (orientation: landscape) {
+  .masthead__menu-item a {
+    min-height: 2.5rem;
+    padding-top: 0.55rem;
+    padding-bottom: 0.55rem;
+  }
+}
